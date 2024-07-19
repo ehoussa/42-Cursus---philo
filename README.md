@@ -68,7 +68,6 @@ The solution typically involves using threads for each philosopher and mutexes (
 
 Assume you want to run the philo program with 5 philosophers, each with a time to die of 800 ms, time to eat of 200 ms, and time to sleep of 300 ms:
 
-   ```bash
    ./philo 5 800 200 300
 
 
